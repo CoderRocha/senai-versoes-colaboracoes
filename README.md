@@ -4,4 +4,4 @@ Repositório de Versões e Colaborações
 
 readme de exemplo
 
-lembrei do comando: git status
+lembrei do seguinte comando: git status
