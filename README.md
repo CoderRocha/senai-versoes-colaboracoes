@@ -5,3 +5,5 @@ Repositório de Versões e Colaborações
 readme de exemplo
 
 lembrei do comando: git commit
+lembrei do seguinte comando: git status
+
